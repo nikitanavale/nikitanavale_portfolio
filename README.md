@@ -1,4 +1,4 @@
-# Nikita Navale's GitHub Repositories
+# Nikita Navale's Portfolio
 
 Explore my projects and contributions on GitHub:
 
