@@ -2,7 +2,7 @@
 
 Explore my projects and contributions on GitHub:
 
-## Repositories
+## My Projects
 
 ### [COVID-19 Python Analysis](https://github.com/nikitanavale/covid19_python_analysis)
 This repository contains scripts and analysis for understanding the impact of COVID-19 using Python. The analysis includes data visualization, trend analysis, and more.
