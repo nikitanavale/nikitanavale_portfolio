@@ -4,6 +4,10 @@ Explore my projects and contributions on GitHub:
 
 ## 📂 **My Projects** 📂
 
+### [Internal Email Communication Analysis with Power BI](https://github.com/nikitanavale/email-communication_analysis)
+![Email](https://img.shields.io/badge/Email-Analysis-orange)
+> I have analyzed internal email communication to understand who communicates with whom and how frequently, uncovering informal networks and collaboration patterns. Additionally, I detected topics, and sentiments, and identified internal influencers and outsiders to gain a comprehensive understanding of communication flows within the company.
+
 ### [UK-based company's Marketing Analysis with Power BI](https://github.com/nikitanavale/marketing_analysis)
 ![Marketing](https://img.shields.io/badge/Marketing-Analysis-orange)
 > A UK-based clothing store launched targeted marketing campaigns for Spring, Fall, and Summer, focusing on Facebook, Pinterest, and Instagram. Ads highlighted discounts and new collections, targeting London, Birmingham, and Manchester. Metrics included Impressions, CTR, Clicks, CPC, Spend, Conversions, Total Conversion Value, Likes, Shares, and Comments.
