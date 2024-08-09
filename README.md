@@ -4,7 +4,7 @@ Explore my projects and contributions on GitHub:
 
 ## 📂 **My Projects** 📂
 
-### [UK-based company's Marketing Analysis with Power B](https://github.com/nikitanavale/marketing_analysis)
+### [UK-based company's Marketing Analysis with Power BI](https://github.com/nikitanavale/marketing_analysis)
 ![Marketing](https://img.shields.io/badge/Marketing-Analysis-orange)
 > A UK-based clothing store launched targeted marketing campaigns for Spring, Fall, and Summer, focusing on Facebook, Pinterest, and Instagram. Ads highlighted discounts and new collections, targeting London, Birmingham, and Manchester. Metrics included Impressions, CTR, Clicks, CPC, Spend, Conversions, Total Conversion Value, Likes, Shares, and Comments.
 
