@@ -4,6 +4,10 @@ Explore my projects and contributions on GitHub:
 
 ## 📂 **My Projects** 📂
 
+### [UK-based company's Marketing Analysis with Power B](https://github.com/nikitanavale/marketing_analysis)
+![Marketing](https://img.shields.io/badge/Marketing-Analysis-orange)
+> A UK-based clothing store launched targeted marketing campaigns for Spring, Fall, and Summer, focusing on Facebook, Pinterest, and Instagram. Ads highlighted discounts and new collections, targeting London, Birmingham, and Manchester. Metrics included Impressions, CTR, Clicks, CPC, Spend, Conversions, Total Conversion Value, Likes, Shares, and Comments.
+
 ### [COVID-19 Python Analysis](https://github.com/nikitanavale/covid19_python_analysis)
 ![COVID-19](https://img.shields.io/badge/COVID--19-Analysis-orange)
 > This repository contains scripts and analyses for understanding the impact of COVID-19 using Python. It includes data visualization, trend analysis, and more.
